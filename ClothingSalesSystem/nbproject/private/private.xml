@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/config/DBConnection.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/view/LoginForm.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/model/Product.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/view/ProductForm.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/model/Customer.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/dao/CustomerDAO.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/view/CustomerForm.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/model/SaleItem.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/dao/SalesDAO.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/view/DashboardForm.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/view/productDao.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/view/SalesForm.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/reports/ProductReport.jrxml</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/report/ProductReport.jrxml</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/view/reports.java</file>
+            <file>file:/C:/Users/pcadmin/Documents/NetBeansProjects/ClothingSalesSystem/src/report/CustomerReport.jrxml</file>
+        </group>
+    </open-files>
+</project-private>
